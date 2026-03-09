@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer | Expert in Microelectronics, Robotics, and Autonomous Systems</h3>
 
 <p align="center">
-[cite_start]From a very young age, I spent hours fixing things that required inventiveness and precise motor skills; attention to detail was paramount[cite: 32, 41]. [cite_start]My interest in technology, mechanical engineering, and robotics was born from the need to solve challenges with creative resources[cite: 33, 35, 40]. [cite_start]Today, I combine that passion with software development to create integrated solutions spanning from code to physical and energy infrastructure[cite: 34, 48].
+From a very young age, I spent hours fixing things that required inventiveness and precise motor skills; attention to detail was paramount. My interest in technology, mechanical engineering, and robotics was born from the need to solve challenges with creative resources. Today, I combine that passion with software development to create integrated solutions spanning from code to physical and energy infrastructure.
 </p>
 
 ---
@@ -15,12 +15,12 @@
 ### 🚀 About Me
 
 - 🌍 **Check out my Portfolio:** [portfolio-dario-cordoneda.vercel.app](https://portfolio-dario-cordoneda.vercel.app/)
-- [cite_start]🛠️ Currently focusing on: **LGI Electronics**, developing autonomous hardware solutions with **Solar Energy**[cite: 1, 3, 5, 25].
-- [cite_start]🧠 Implementing: **Artificial Intelligence** projects applied to technical diagnostics and process automation[cite: 27, 34].
-- [cite_start]🌱 Mastering: Robust architectures using **Python** and **Django**.
-- [cite_start]💬 Ask me about: **Python, Django, AI, Apple Microelectronics, Robotics, and IP Surveillance Systems**[cite: 33, 34, 39, 40, 47, 48].
-- [cite_start]📫 Reach me at: **Dario_cordoneda@hotmail.com** [cite: 4]
-- ⚡ Fun fact: **I can't live without repairing things; [cite_start]I love mechanical engineering in all its forms**[cite: 35, 48].
+- 🛠️ Currently focusing on: **LGI Electronics**, developing autonomous hardware solutions with **Solar Energy**.
+- 🧠 Implementing: **Artificial Intelligence** projects applied to technical diagnostics and process automation.
+- 🌱 Mastering: Robust architectures using **Python** and **Django**.
+- 💬 Ask me about: **Python, Django, IA, Apple Microelectronics, Robotics, and IP Surveillance Systems**.
+- 📫 Reach me at: **Dario_cordoneda@hotmail.com**
+- ⚡ Fun fact: **I can't live without repairing things; I love mechanical engineering in all its forms**.
 
 ### 🛠️ Languages and Tools
 
