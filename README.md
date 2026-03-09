@@ -14,25 +14,21 @@ Desde muy joven, dediqué horas a reparar cosas que requerían inventiva y motri
 
 ### 🚀 Sobre mí
 
-- [cite_start]🛠️ Actualmente enfocado en: **LGI Electronics**, desarrollando soluciones de hardware autónomo con **Energía Solar**. [cite: 5, 25, 48]
+- 🛠️ Actualmente enfocado en: **LGI Electronics**, desarrollando soluciones de hardware autónomo con **Energía Solar**.
 - 🧠 Implementando: Proyectos de **Inteligencia Artificial** aplicada al diagnóstico y automatización de procesos técnicos.
 - 🌱 Perfeccionando: Arquitecturas robustas con **Python** y **Django**.
-- [cite_start]💬 Consultame sobre: **Python, Django, IA, Microelectrónica Apple, Robótica y sistemas de vigilancia IP**. [cite: 33, 34, 39, 40]
-- [cite_start]📫 Contacto: **Dario_cordoneda@hotmail.com** [cite: 4]
-- [cite_start]⚡ Fun fact: **No puedo vivir sin reparar cosas; amo la ingeniería mecánica en todas sus formas.** [cite: 35]
+- 💬 Consultame sobre: **Python, Django, IA, Microelectrónica Apple, Robótica y sistemas de vigilancia IP**.
+- 📫 Contacto: **Dario_cordoneda@hotmail.com**
+- ⚡ Fun fact: **No puedo vivir sin reparar cosas; amo la ingeniería mecánica en todas sus formas.**
 
 ### 🛠️ Lenguajes y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
   <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-  
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
-  
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="robotics"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
 </p>
 
 ### 🤝 Conectemos
