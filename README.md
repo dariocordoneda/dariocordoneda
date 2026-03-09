@@ -7,19 +7,19 @@
 <h3 align="center">Full Stack Developer | Experto en Microelectrónica, Robótica y Sistemas Autónomos</h3>
 
 <p align="center">
-[cite_start]Desde muy joven, dediqué horas a reparar cosas que requerían inventiva y motricidad fina; la atención al detalle era primordial[cite: 32, 41]. [cite_start]Mi interés por la tecnología, la ingeniería mecánica y la robótica nació de la necesidad de resolver desafíos con recursos creativos[cite: 33, 35]. [cite_start]Hoy, combino esa pasión con el desarrollo de software para crear soluciones integrales que abarcan desde el código hasta la infraestructura física y energética[cite: 34].
+Desde muy joven, dediqué horas a reparar cosas que requerían inventiva y motricidad fina; la atención al detalle era primordial. Mi interés por la tecnología, la ingeniería mecánica y la robótica nació de la necesidad de resolver desafíos con recursos creativos. Hoy, combino esa pasión con el desarrollo de software para crear soluciones integrales que abarcan desde el código hasta la infraestructura física y energética.
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- [cite_start]🛠️ Actualmente enfocado en: **LGI Electronics**, desarrollando soluciones de hardware autónomo con **Energía Solar**[cite: 1].
-- 🧠 Implementando: Proyectos de **Inteligencia Artificial** aplicada al diagnóstico y automatización.
+- [cite_start]🛠️ Actualmente enfocado en: **LGI Electronics**, desarrollando soluciones de hardware autónomo con **Energía Solar**. [cite: 5, 25, 48]
+- 🧠 Implementando: Proyectos de **Inteligencia Artificial** aplicada al diagnóstico y automatización de procesos técnicos.
 - 🌱 Perfeccionando: Arquitecturas robustas con **Python** y **Django**.
-- 💬 Consultame sobre: **Python, Django, IA, Microelectrónica Apple, Robótica y sistemas de vigilancia IP**.
-- [cite_start]📫 Contacto: **Dario_cordoneda@hotmail.com** [cite: 3, 4]
-- [cite_start]⚡ Fun fact: **No puedo vivir sin reparar cosas; amo la ingeniería mecánica en todas sus formas[cite: 32, 35].**
+- [cite_start]💬 Consultame sobre: **Python, Django, IA, Microelectrónica Apple, Robótica y sistemas de vigilancia IP**. [cite: 33, 34, 39, 40]
+- [cite_start]📫 Contacto: **Dario_cordoneda@hotmail.com** [cite: 4]
+- [cite_start]⚡ Fun fact: **No puedo vivir sin reparar cosas; amo la ingeniería mecánica en todas sus formas.** [cite: 35]
 
 ### 🛠️ Lenguajes y Herramientas
 
